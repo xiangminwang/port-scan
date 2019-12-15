@@ -1,8 +1,12 @@
 [package]
-name = "port-scanner"
+name = "port-scan"
+description = "Do a quickly multi-threaded port scan in Rust."
 version = "0.1.0"
 authors = ["xiangminwang <wang@xiangmin.net>"]
+homepage = "https://github.com/xiangminwang/port-scanner"
+repository = "https://github.com/xiangminwang/port-scanner"
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

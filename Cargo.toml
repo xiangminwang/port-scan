@@ -1,10 +1,10 @@
 [package]
 name = "port-scan"
-description = "Do a quickly multi-threaded port scan in Rust."
-version = "0.1.0"
+description = "Do a quickly multi-threaded port scanning in Rust."
+version = "0.1.1"
 authors = ["xiangminwang <wang@xiangmin.net>"]
-homepage = "https://github.com/xiangminwang/port-scanner"
-repository = "https://github.com/xiangminwang/port-scanner"
+homepage = "https://github.com/xiangminwang/port-scan"
+repository = "https://github.com/xiangminwang/port-scan"
 edition = "2018"
 license = "MIT"
 

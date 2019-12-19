@@ -1,4 +1,4 @@
-# Port Scanner
+# A Simple Port Scanner Written in Rust
 
 ### Install
 `cargo install port-scan`
